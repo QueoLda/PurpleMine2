@@ -80,9 +80,9 @@ $gray-900: shade($gray, 900) !default;
 $gray-950: shade($gray, 950) !default;
 
 //$brand-primary: $purple !default;
-$brand-primary: $gray-950 !default;
+$brand-primary: $gray-800 !default;
 $brand-text: $white !default;
-$brand-accent: shade($brand-primary, 100) !default;
+$brand-accent: shade($brand-primary, 200) !default;
 
 $brand-success: $green !default;
 $brand-info: $blue !default;

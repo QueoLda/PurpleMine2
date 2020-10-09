@@ -1,6 +1,7 @@
 # PurpleMine 2
 
 A free Redmine 3.0+ theme written in SCSS.
+Cloned from original and changed priority colors to true, and tracker colors to false.
 
 ![The MIT License](https://img.shields.io/badge/license-MIT-584492.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) ![Run linters](https://github.com/mrliptontea/PurpleMine2/workflows/Run%20linters/badge.svg) [![Issues](https://img.shields.io/github/issues/mrliptontea/PurpleMine2.svg)](https://github.com/mrliptontea/PurpleMine2/issues)
 
